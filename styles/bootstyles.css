@@ -1,0 +1,60 @@
+/*Bethany Strong    Last Edited: 8/9*/
+/*My custom styles for the Tableau page*/
+
+.bgcolor{
+    background-color: rgb(228, 242, 245);
+}
+
+.header{
+    top: 10px;
+    padding-top: 20px;
+    left: 50px;
+    padding-left: 150px;
+    right: 50px;
+    padding-right: 150px;
+    height: 50px;
+    text-align: center;
+}
+
+.mainbody{
+    top: 70px;
+    left: 50px;
+    padding-left: 150px;
+    right: 50px;
+    padding-right: 150px;
+    bottom: 120px;
+    padding-bottom: 50px;
+}
+
+.footer{
+    bottom: 0px;
+    left: 50px;
+    right: 50px;
+    height: 45px;
+    position: fixed;
+    background-color: rgb(228, 242, 245);
+    color: gray;
+    text-align: center;
+}
+
+.links{
+    color: black;
+    text-decoration: none;
+    font-size: 1.15rem;
+}
+
+.links:visited{
+    color: black;
+    text-decoration: none;
+    font-size: 1.15rem;
+}
+
+.footerlinks{
+    color: gray;
+    text-decoration: underline;
+}
+
+.footerlinks:visited{
+    color: gray;
+    text-decoration: underline;
+}

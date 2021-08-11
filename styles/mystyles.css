@@ -1,0 +1,72 @@
+/*Bethany Strong    Last Edited: 8/7*/
+/*My custom styles*/
+.byu{
+    color: rgb(4, 38, 141);
+    text-decoration: underline;
+}
+.byu:hover{
+    color: rgb(4, 38, 141);
+    text-decoration: underline;
+}
+
+.byu:visited{
+    color: rgb(4, 38, 141);
+    text-decoration: underline;
+}
+
+ .employer{
+    color: rgb(16, 3, 102);
+    text-decoration: underline;
+}
+.employer:hover{
+    color: rgb(16, 3, 102);
+    text-decoration: underline;
+}
+    
+.employer:visited{
+    color: rgb(16, 3, 102);
+    text-decoration: underline;
+}
+
+.resumeheader{
+    font-style: unset;
+    font-size: 1.75rem;
+    text-decoration: underline;
+}
+
+  .resumetitle {
+    font-style: inherit;
+    font-size: 1.5rem;
+    color: rgb(58, 54, 54);
+    padding-top: 15px;
+}
+  
+  .resumesubtitle {
+    font-style: italic;
+    font-size: 1.25rem;
+    color: rgb(82, 80, 80);
+    
+}
+
+  .contactinfo{
+      font-weight: bold;
+      color: rgb(16, 3, 102);
+}
+
+  .center {
+      text-align: center;
+}
+
+  .disney{
+    color: rgb(4, 38, 141);
+    text-decoration: underline;
+}
+.disney:hover{
+    color: rgb(4, 38, 141);
+    text-decoration: underline;
+}
+
+.disney:visited{
+    color: rgb(4, 38, 141);
+    text-decoration: underline;
+}
